@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EJERCIIO 2</string>
+    <array name="OpcionesMenu">
+        <item>Condiciones {if-else/when}</item>
+        <item>Ciclos {for/whiel}</item>
+        <item>Conversiones</item>
+        <item>Salir</item>
+    </array>
+
+    <array name="conversiones">
+        <item>cadena a entero</item>
+        <item>cadema a decimal</item>
+        <item>Decimal a cadena</item>
+        <item>Entero a cadena</item>
+    </array>
+</resources>
